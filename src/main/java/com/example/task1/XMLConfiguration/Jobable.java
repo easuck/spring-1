@@ -1,4 +1,4 @@
-package com.example.task1.Entities;
+package com.example.task1.XMLConfiguration;
 
 public interface Jobable {
 

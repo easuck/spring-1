@@ -35,7 +35,7 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
-					<mainClass>com.example.task1.Task1Application</mainClass>
+					<mainClass>com.example.task1.XMLConf</mainClass>
 				</configuration>
 			</plugin>
 		</plugins>

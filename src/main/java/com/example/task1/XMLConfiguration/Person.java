@@ -1,4 +1,4 @@
-package com.example.task1.Entities;
+package com.example.task1.XMLConfiguration;
 
 public abstract class Person implements Agable, Jobable {
 
@@ -25,7 +25,11 @@ public abstract class Person implements Agable, Jobable {
                 '}';
     }
 
+    public void printAge(){
+        System.out.println("default age");
+    }
+
     public void printJob(){
-        System.out.println("I don't have a job");
+        System.out.println("default job");
     }
 }

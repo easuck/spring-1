@@ -1,6 +1,4 @@
-package com.example.task1.Entities;
-
-import org.springframework.beans.factory.annotation.Autowired;
+package com.example.task1.XMLConfiguration;
 
 public class Ason extends Person {
 
